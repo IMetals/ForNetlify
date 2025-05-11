@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Thông báo! Hôm nay là ngày 14-5-2025." //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc vợ yêu sinh nhật vui vẻ. Luôn luôn xinh đẹp và đáng yêu." //Nội dung của bức thư
+const contentLetterSrart_actived = "Thông báo! Hôm nay là ngày đặc biệt 14-5-2025." //Lời mở đầu cho bức thư
+const mainContentLetter = "Chúc vợ yêu sinh nhật vui vẻ. Luôn luôn xinh đẹp và đáng yêu. Love you <3" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
